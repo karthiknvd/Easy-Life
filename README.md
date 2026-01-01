@@ -1,4 +1,4 @@
-# Easy Life 1.0.3
+# Easy Life
 
 **Easy Life** is a lightweight AutoHotkey-based productivity toolkit that bundles multiple scripts into one simple launcher.  
 It helps you boost efficiency with desktop shortcuts, transparency toggles, dark overlays, and more — all from a single starting point.
@@ -10,7 +10,7 @@ It helps you boost efficiency with desktop shortcuts, transparency toggles, dark
 After extracting, you will see:
 
 ~~~
-Easy Life 1.0.3/
+Easy Life 1.0.x/
 │
 ├── EasyLife.ahk
 │
@@ -39,7 +39,7 @@ Easy Life 1.0.3/
 
 ## 🛠 Installation (Required Setup)
 
-1. Download and extract **Easy Life 1.0.3**.
+1. Download and extract **Easy Life 1.0.x**.
 2. Copy the inner `"Easy Life"` folder into:  
    `C:\Program Files\`
 
