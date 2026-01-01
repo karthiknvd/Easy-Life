@@ -1,0 +1,42 @@
+Easy Life - Shortcuts
+=====================
+
+📂 Apps & Websites
+------------------
+CapsLock + G   / RightShift + G  → Open Google Chrome  
+CapsLock + W   / RightShift + W  → Open WhatsApp  
+CapsLock + B   / RightShift + B  → Open Brave Browser  
+CapsLock + T   / RightShift + T  → Open Telegram  
+CapsLock + R   / RightShift + R  → Open Roblox  
+CapsLock + V   / RightShift + V  → Open VS Code  
+CapsLock + C   / RightShift + C  → Open ChatGPT (Brave)  
+CapsLock + D   / RightShift + D  → Open Downloads folder  
+CapsLock + E   / RightShift + E  → Open Microsoft Edge  
+CapsLock + L   / RightShift + L  → Open KLU LMS in Chrome  
+CapsLock + N   / RightShift + N  → Open KLU New ERP in Chrome  
+CapsLock + A   / RightShift + A  → Open Academics Portal in Chrome  
+CapsLock + Y   / RightShift + Y  → Open YouTube in Brave  
+
+
+🎹 Caps Lock Key
+----------------
+CapsLock alone → Works like normal Caps Lock toggle  
+
+
+🖥️ Switch Desktop & Media Control
+---------------------------
+Right Alt (tap)    → Switch to Right Desktop + Pause/Play media  
+Right Alt (hold)   → Acts like normal Alt key  
+Right Ctrl         → Switch to Left Desktop + Pause/Play media  
+
+
+🌟 Window Transparency
+-----------------------
+PgUp   → Increase active window transparency (more visible)  
+PgDn   → Decrease active window transparency (less visible)  
+
+
+🌑 Extreme Darkness Overlay
+--------------------------
+Ctrl + PgDn   → Enable / Darken screen overlay  
+Ctrl + PgUp   → Brighten / Disable screen overlay  

@@ -1,0 +1,24 @@
+Easy Life - Setup Guide
+=============================
+
+1. Install AutoHotkey (v1.1) from https://www.autohotkey.com/
+
+2. From inside "Easy Life 1.0.4", copy/move the folder named:
+   Easy Life/
+   into:
+   C:\Program Files\
+
+   Final path should look like:
+   C:\Program Files\Easy Life\Script Files\
+
+3. Keep "EasyLife.ahk" (the launcher) anywhere you like:
+   - Desktop (run manually)
+   - Startup folder (auto run at login)
+
+4. Double-click EasyLife.ahk to launch.
+   - It will run all scripts inside "Script Files".
+   - Tray icon will appear (right side of taskbar).
+
+Tips:
+- To remove a script → delete it from "Script Files".
+- To add a script → just drop it in "Script Files".
